@@ -1,0 +1,26 @@
+Alemanha;Áustria,Bélgica,Dinamarca,França,Luxemburgo,Países Baixos,Polônia,República Tcheca,Suíça
+Argentina;Bolívia,Brasil,Chile,Paraguai,Uruguai
+Austrália;
+Bolívia;Argentina,Brasil,Chile,Paraguai,Peru
+Brasil;Argentina,Bolívia,Colômbia,Guiana,Guiana Francesa,Paraguai,Peru,Suriname,Uruguai,Venezuela
+Canadá;Estados Unidos
+Chile;Argentina,Bolívia,Peru
+Colômbia;Brasil,Equador,Panamá,Peru,Venezuela
+Coreia do Sul;Coreia do Norte
+Equador;Colômbia,Peru
+Espanha;Andorra,França,Portugal
+Estados Unidos;Canadá,México
+França;Alemanha,Andorra,Bélgica,Espanha,Itália,Luxemburgo,Mônaco,Suíça
+Índia;Bangladesh,Butão,China,Mianmar,Nepal,Paquistão
+Irlanda;Reino Unido
+Itália;Áustria,Eslovênia,França,San Marino,Suíça,Vaticano
+Japão;
+México;Belize,Estados Unidos,Guatemala
+Nigéria;Benin,Camarões,Chade,Níger
+Paraguai;Argentina,Bolívia,Brasil
+Peru;Bolívia,Brasil,Chile,Colômbia,Equador
+Portugal;Espanha
+Reino Unido;Irlanda
+Suécia;Finlândia,Noruega
+Uruguai;Argentina,Brasil
+Venezuela;Brasil,Colômbia,Guiana

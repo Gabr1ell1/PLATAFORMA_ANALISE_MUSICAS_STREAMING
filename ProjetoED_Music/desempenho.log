@@ -1,0 +1,3 @@
+2026-10-18 21:23:35 | operacao=create_arquivo | n=5 | tempo_ms=89.155 | arquivo=entrada.txt
+2026-10-18 21:23:44 | operacao=leitura | n=5 | tempo_ms=37.866 | arquivo=entrada.txt
+2026-10-18 21:24:21 | operacao=ordenacao_bubblesort | n=5 | tempo_ms=1.059 | criterio=DURACAO_ASC comparacoes=9 movimentos=3 gravacao_ms=33.246 saida=bubblesort.txt

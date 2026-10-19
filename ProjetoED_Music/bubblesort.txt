@@ -1,0 +1,7 @@
+# ordem;id;titulo;artista;album;genero;duracao_s;ano;pais;reproducoes;avaliacao;atualizado_em;status
+# criterio=DURACAO_ASC
+2;1;Noite Eterna;Los Faroles;Primeiros Passos;K-Pop;122;1999;México;678173;3.64;2026-06-13T13:02:00;lancado
+1;4;Chuva Azul;Camila Reyes;Primeiros Passos;Afrobeats;130;1998;Chile;201610;4.45;2026-09-28T19:20:00;lancado
+5;5;Estrela Invisível;Rafael Quintana;Sessões de Estúdio;Reggaeton;252;2011;Argentina;49539;4.13;2026-06-28T23:19:00;em divulgacao
+3;3;Sonho Sem Fim;Maple Harbor;Entre Ondas;Reggaeton;290;2014;Canadá;53077;3.54;2026-09-10T20:13:00;arquivado
+4;2;Horizonte Distante;Saga Lindqvist;Raízes;Samba;350;2009;Suécia;1597086;3.84;2026-04-12T03:23:00;lancado
